@@ -1,18 +1,3 @@
-# 博客目录
-努力打造一系列适合初中级工程师能够看得懂的优质文章，今年博客侧重于vue、node和webpack等底层原理分析，如果想第一时间获取文章，欢迎关注**我的公众号：前端工匠，每周至少一篇高质量原创的文章，带你入门!**  
-
-### 版权声明：本文为博主原创文章，未经博主允许不得转载。
-
-- [掘金博客(全集)](https://juejin.im/user/5a9a9cdcf265da238b7d771c)
-
-- [segmentFault博客(精华)](https://segmentfault.com/u/langlixingzhou/articles)
-
-- 想加入**前端交流群**，跟诸多一线大厂的大佬交流学习，先进入前端工匠公众号👉点击“进群交流”，我拉你入群	
-
- 欢迎关注公众号：**前端工匠**，你的成长我们一起见证！	
-
- ![](https://user-gold-cdn.xitu.io/2019/3/9/169618de64c54768?w=1179&h=372&f=png&s=533174)
-
 ### |  浏览器相关
 #### 1.[深入浅出浏览器渲染原理](https://github.com/ljianshu/Blog/issues/51)
 #### 2.[深入了解浏览器存储](https://github.com/ljianshu/Blog/issues/25)
@@ -110,8 +95,3 @@
 - 前端数据结构与算法
 - chrome调试技巧
 - MVC、MVP与MVVM区别
-
-### |  打赏
-如果你感觉有收获，欢迎给我打赏,以激励我更多输出优质开源内容!
-
-![](https://user-gold-cdn.xitu.io/2019/4/4/169e852602a7135c?w=354&h=220&f=png&s=47749)
